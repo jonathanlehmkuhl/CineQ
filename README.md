@@ -1,2 +1,2 @@
 # CineQ
-A Question Answering System (QAS) within the domain of movies
+A Question Answering System (QAS) within the domain of movies.
